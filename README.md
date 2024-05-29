@@ -86,7 +86,7 @@ This project aims to:
 - **Data Integration**:
   - Integrate the cleaned and analyzed data into the dashboard.
   - Ensure the dashboard is dynamic and updates with new data.
- 
+ Tableau Dashboard URL: https://public.tableau.com/app/profile/subhransu.sekhar.mallick/viz/SSMKPMGVirtualInternshipTask3/Dashboard1
 ![Dashboard 1](https://github.com/mallicksubhransu/KPMG-Data-Analytics-Project-by-Forage/assets/114018899/b83e4d63-5c61-4593-bdbb-cb86e9f931dd)
 
 
